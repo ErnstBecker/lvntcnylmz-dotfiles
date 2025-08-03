@@ -32,12 +32,12 @@ There is no installation script yet, but in the meantime you can clone the repo 
 
 ```
 git clone https://github.com/lvntcnylmz/dotfiles.git
-cp -r dotfiles/.config/* ~/.config
+stow .
 ```
 
 ### TODO
 
-- [ ] Add installation script
+- [x] Add installation script
 - [ ] Better documentation
 
 ## Screenshots
